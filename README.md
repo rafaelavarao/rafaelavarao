@@ -1,5 +1,5 @@
 Hello 👋,
-I'm Rafaela. Graduation in progress in Data Science and Artificial Intelligence at PUCRS. I am currently doing an internship in data engineering. <img align="center" alt="vi-yoda" height="60" width="80" src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif">
+I'm Rafaela. Graduation in progress in Data Science and Artificial Intelligence at PUCRS. I am currently working as a data engineer at HP. <img align="center" alt="vi-yoda" height="60" width="80" src="https://media.tenor.com/images/4f20af75f32887384aab7e49c37537ae/tenor.gif">
 
 <a href="https://github.com/rafaelavarao">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaelavarao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
